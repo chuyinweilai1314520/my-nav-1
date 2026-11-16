@@ -22,18 +22,6 @@ npx tsx icon-system/0icon.ts
  * @type {Array<{id: string, name: string, icon: string}>}
  */
 export const categories = [
-  {
-    id: 'opensource',
-    name: '开源平台', icon: '/icons/category/opensource.svg',
-  },
-  {
-    id: 'Studying',
-    name: '个人其他站点', icon: '/icons/category/studying.svg',
-  },
-  {
-    id: 'pages',
-    name: '静态部署平台', icon: '/icons/category/pages.svg',
-  },
 ];
 /**
  * 网站列表
